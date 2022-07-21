@@ -22,7 +22,7 @@ Aplicación realizada con Laravel 8 + Vue 2 + AdminLTE 3 basada con el crud star
 - `Disponer de una base de datos local ó en la nube`
 - `Crear una base de datos con codificación utf8_general_ci`
 - `git clone https://github.com/mauri-1973/CRUD_API_LARAVEL.git`
-- `cd CRUD-VUE-LARAVEL8/`
+- `cd CRUD_API_LARAVEL`
 - `En consola ingresar el comando: composer update`
 - `renombrar el archivo .env.example por .env`
 - `Actualizar el archivo .env, con las credenciales de acceso a su base de datos`
